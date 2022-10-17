@@ -4,7 +4,11 @@
 - 🌱 Estou sempre tentando me desenvolver e aprimorar meus conhecimentos na área!
 - 🖥️ As linguagens que estou aprendendo atualmente são: HTML, CSS e Javascript
 - 💬 Tenho 16 anos e toco violino
-- 😄 Pronomes: Ele/Dele
+- ✨ Pronomes: Ele/Dele
+
+  ##
+  
+### 💡 Essas são as tecnologias que eu estou estudando no momento:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
