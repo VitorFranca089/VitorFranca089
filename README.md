@@ -5,7 +5,7 @@
 - 🖥️ Atualmente estou estudando: Java, PHP, MySql e Javascript.
 - 💬 Tenho 17 anos e toco violino.
 
-  ##
+###
   
 ### 💡 Essas são as tecnologias que eu estou estudando no momento:
 
