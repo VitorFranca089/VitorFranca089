@@ -5,7 +5,7 @@
 - 🖥️ Atualmente estou estudando: Java, PHP, MySql e Javascript.
 - 💬 Tenho 17 anos e toco violino.
 
-###
+  ##
   
 ### 💡 Essas são as tecnologias que eu estou estudando no momento:
 
@@ -17,6 +17,8 @@
 </div>
 
   ##
+
+### 🌐 Minhas redes sociais:
 
 <div>
   <a href="https://www.instagram.com/vitorfranca089/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
