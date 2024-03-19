@@ -9,7 +9,7 @@
   
 ### 💡 Essas são as tecnologias que eu estou estudando no momento:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Icon-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Icon-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Icon-MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -20,9 +20,8 @@
 
 ### 🌐 Minhas redes sociais:
 
-<div>
+<div style="display: inline_block">
   <a href="https://www.instagram.com/vitorfranca089/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorfranca089@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/vitor-franca-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
