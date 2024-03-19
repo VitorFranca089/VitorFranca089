@@ -1,18 +1,19 @@
 ### 👋 Olá! Eu sou o Vitor, um estudante de TI :)
 
-- 🏫 Atualmente faço o curso de Informática para Web na ETEC
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Ourinhos.
 - 🌱 Estou sempre tentando me desenvolver e aprimorar meus conhecimentos na área!
-- 🖥️ As linguagens que estou aprendendo atualmente são: HTML, CSS e Javascript
-- 💬 Tenho 16 anos e toco violino
+- 🖥️ Atualmente estou estudando: Java, PHP, MySql e Javascript.
+- 💬 Tenho 17 anos e toco violino.
 
   ##
   
 ### 💡 Essas são as tecnologias que eu estou estudando no momento:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Icon-PHP" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Icon-MySql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Icon-Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
   ##
@@ -20,8 +21,6 @@
 <div>
   <a href="https://www.instagram.com/vitorfranca089/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorfranca089@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-frança-16309324a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/VitorFranca089/VitorFranca089/blob/output/github-contribution-grid-snake.svg)
+  <a href="www.linkedin.com/in/vitor-franca-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
