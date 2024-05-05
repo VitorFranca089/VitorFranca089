@@ -3,7 +3,7 @@
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas na FATEC Ourinhos.
 - 🌱 Estou sempre tentando me desenvolver e aprimorar meus conhecimentos na área!
 - 🖥️ Atualmente estou estudando: Java, PHP, MySql e Javascript.
-- 💬 Tenho 17 anos e toco violino.
+- 💬 Tenho 18 anos e toco violino.
 
   ##
   
@@ -21,7 +21,7 @@
 ### 🌐 Minhas redes sociais:
 
 <div style="display: inline_block">
+  <a href="www.linkedin.com/in/vitor-franca-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitorfranca089/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorfranca089@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vitor-franca-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
